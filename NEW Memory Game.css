@@ -1,0 +1,23 @@
+#board {
+    display: flex;
+    flex-wrap: wrap;
+    /* height: 800px; */
+    width: 1000px;
+    border: black solid 5px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+body {
+    background: lightskyblue;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 60px;
+}
+
+img:hover {
+    cursor: pointer;
+  }
